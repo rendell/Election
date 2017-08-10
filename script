@@ -1,3 +1,7 @@
+closeAllConnections()
+rm(list=ls())
+
+
 stemcijfer <- function(data)
 {sum(data)
 }
